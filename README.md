@@ -21,4 +21,4 @@ Demonstration of creating your own custom framework.
 - Clone the repository in XAMPPs htdocs folder
 - start XAMPP
 - Open browser and navigate to `http://localhost/cpips-framework/` or `http://localhost/cpips-framework/home/index`  where 
-http://localhost:8000/{ControllerName}/{MethodInController}/{Arg1}/{Arg2}/{Arg3}
+http://localhost/{ControllerName}/{MethodInView}/{Arg1}/{Arg2}/{Arg3}
