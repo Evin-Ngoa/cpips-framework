@@ -8,9 +8,9 @@ Demonstration of creating your own custom framework.
 +-- _Controllers
 |   +-- HomeController.php
 +-- _Models
-|   +-- home.php
+|   +-- HomeModel.php
 +-- _Views
-|   +-- home.php
+|   +-- home_view.php
 +-- .htaccess
 +-- index.php
 ```
